@@ -4,13 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Form IT technical support officer Become to Full Developer
 ----------------------------------------------------------
 
-*   🌍  I'm based in thailand bangoko,phrae
-*   🖥️  See my portfolio at [Adinan Suwannarat](http://https://adinanswr.mcupr.ac.th/)
-*   ✉️  You can contact me at [next1981@hotmail.com](mailto:next1981@hotmail.com)
-*   🚀  I'm currently working on [Mcu Phrae](http://https://phrae.mcu.ac.th/web/)
-*   🧠  I'm learning Nuxt.js vue vite
-*   🤝  I'm open to collaborating on Github
-*   ⚡  Fast Learn and Creative### Skills 
+* 🌍  I'm based in thailand bangoko,phrae
+* 🖥️  See my portfolio at [Adinan Suwannarat](http://https://adinanswr.mcupr.ac.th/)
+* ✉️  You can contact me at [next1981@hotmail.com](mailto:next1981@hotmail.com)
+* 🚀  I'm currently working on [Mcu Phrae](http://https://phrae.mcu.ac.th/web/)
+* 🧠  I'm learning Nuxt.js vue vite
+* 🤝  I'm open to collaborating on Github
+* ⚡  Fast Learn and Creative
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -47,15 +51,16 @@ Form IT technical support officer Become to Full Developer
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/next1981" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/%E0%B8%AD%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-715ab5268/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.youtube.com/c/@adinan1981" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### Badges<a href="https://github.com/next1981" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=next1981&langs_count=10&title_color=0891b2&text_color=22c55e&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/next67024d"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/next1981" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/%E0%B8%AD%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-715ab5268/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/@adinan1981" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<a href="https://github.com/next1981" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=next1981&langs_count=10&title_color=0891b2&text_color=22c55e&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/next67024d"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
